@@ -42,4 +42,4 @@ steps:
   inputs:
     command: 'build'
     arguments: '--no-restore --configuration Release'
-    projects: 'C:\Users\m1038380\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Tailspin.SpaceGame.Web.csproj'
+    projects: '**/*.csproj'
